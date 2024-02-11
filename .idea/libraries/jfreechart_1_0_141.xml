@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="jfreechart-1.0.141">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jfreechart-1.0.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/commons-lang3-3.13.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jcommon-1.0.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/opencsv-5.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sqlite-jdbc-3.42.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
